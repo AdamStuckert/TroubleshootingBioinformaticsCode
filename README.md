@@ -18,10 +18,10 @@ Don’t rely on your internet connection. Corollary: don’t expect that you won
 
 See, for example:
 
-![alt text](https://drive.google.com/file/d/0BwmkczhV3LaHaTVQNzB0WUJoSDZod09jem1PVTktbU9LQnBJ "oh no")
+![alt text](https://github.com/AdamStuckert/TroubleshootingBioinformaticsCode/blob/master/pics/IMG_20180314_181726396.jpg "oh no")
 
 I love him, but sometimes he is an asshole. He is also the reason I gave in and started using Github: seeing 200 lines of code disappear is...disconcerting.
 
 Still, look how cute he is.
-![alt text](https://drive.google.com/file/d/0BwmkczhV3LaHaE9aZ1ItRExMa2UwcnltQ2tacW04akJuWU5r "ohmagawd he is so cute")
+![alt text](https://github.com/AdamStuckert/TroubleshootingBioinformaticsCode/blob/master/pics/IMG_20180118_075412379.jpg "ohmagawd he is so cute")
 
