@@ -4,6 +4,7 @@
 Wait, you thought you would succeed the first time? This is science. That isn't how this works. That isn't how *any* of this works. Expect failure, and embrace it as part of your growth process. I've failed more times than I can possibly count.
 
 
+
 Quick programming note (*ba-dum-tsss*): these are just things that I've found work well as a flow for me. List subject to grow at my whim. Feel free to send comments and baked goods as you see fit.
 
 ## General tips: 
@@ -21,7 +22,7 @@ Quick programming note (*ba-dum-tsss*): these are just things that I've found wo
 
 5. *My for/while loop has been running for a long time and I don't know what is happening/can't see any output.*  Been there, done that. Two important things to note here. First, I think building a loop piecewise is good, and it is pretty critical to do it on a *small subset of your data/transcriptome/genome* instead of a 2.5 million line file. I'm a big fan of using `cat FILE | head > tmpFILE` to make a small, workable subset of the data to attempt a loop or any bit of code I'm writing. It is much better to waste 30 seconds running a subset, than 30 minutes running the whole thing and wondering. Second, following along with `tail -f OUTPUT` is a nice way to see things are actually happening, but only if you specify an output for each iteration. If you don't do that, you can add a line that tells you what iteration it is on (`echo $i` is a simple example).
 
-6. The moment you think "I'm getting pretty good at Task X" is the moment that you accidentally create hundreds of nonsense files, make an infinite nested loop of files, or delete and entire hard drive (I won't mention any names). Bash and hubris don't mix, folks.
+6. The moment you think "I'm getting pretty good at Task X" is the moment that you accidentally create hundreds of nonsense files, make an infinite nested loop of files, or delete and entire hard drive (I won't mention any names). Bash and hubris don't mix, folks. Scratch folders are your friend.
 
 ## Not so much a troubleshooting mechanism, but rather a preventative one:
 
